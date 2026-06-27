@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
