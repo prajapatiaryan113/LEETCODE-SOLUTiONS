@@ -24,5 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
