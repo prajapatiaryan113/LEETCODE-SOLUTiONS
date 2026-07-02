@@ -14,7 +14,7 @@ for (int x : nums)
 
     int rem = (psum % k + k) % k;
 
-    if (m.count(rem))
+
         total += m[rem];
 
     m[rem]++;
