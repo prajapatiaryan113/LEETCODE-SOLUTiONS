@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
