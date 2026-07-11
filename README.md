@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
