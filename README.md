@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0766-toeplitz-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1291-sequential-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
