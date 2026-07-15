@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1108-defanging-an-ip-address) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
