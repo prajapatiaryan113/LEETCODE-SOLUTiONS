@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
