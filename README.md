@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1108-defanging-an-ip-address) |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
