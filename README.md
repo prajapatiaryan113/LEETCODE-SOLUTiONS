@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
