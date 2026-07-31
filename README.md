@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
