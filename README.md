@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
