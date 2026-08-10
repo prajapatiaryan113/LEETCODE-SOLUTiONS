@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0704-binary-search) |
