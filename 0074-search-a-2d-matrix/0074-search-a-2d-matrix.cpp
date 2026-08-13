@@ -4,10 +4,11 @@ public:
         int low=0;int high=matrix.size()*matrix[0].size()-1;
         int rindex;
         int cindex;
+        int n=matrix[0].size();
         while(low<=high){
             int mid=(low+high)/2;
-            rindex=mid/matrix[0].size();
-            cindex=mid%matrix[0].size();
+            rindex=mid/n;
+            cindex=mid%n;
             if(matrix[rindex][cindex]==target)
             return true;
 
