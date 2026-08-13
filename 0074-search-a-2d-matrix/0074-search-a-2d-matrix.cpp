@@ -2,8 +2,6 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int low=0;int high=matrix.size()*matrix[0].size()-1;
-        int m=matrix.size()*matrix[0].size();
-
         int rindex;
         int cindex;
         while(low<=high){
