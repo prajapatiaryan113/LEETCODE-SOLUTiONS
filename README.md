@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0852-peak-index-in-a-mountain-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
