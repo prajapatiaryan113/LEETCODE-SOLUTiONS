@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0183-customers-who-never-order) |
+| [1193-monthly-transactions-i](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1193-monthly-transactions-i) |
 ## Array
 |  |
 | ------- |
