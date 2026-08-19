@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1528-shuffle-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
