@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0075-sort-colors) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
