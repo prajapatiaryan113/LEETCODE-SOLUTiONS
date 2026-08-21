@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0584-find-customer-referee) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1193-monthly-transactions-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Array
 |  |
 | ------- |
