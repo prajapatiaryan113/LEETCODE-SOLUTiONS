@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0214-shortest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
