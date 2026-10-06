@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1768-merge-strings-alternately) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0237-delete-node-in-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
