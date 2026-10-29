@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0224-basic-calculator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
