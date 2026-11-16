@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0224-basic-calculator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -237,10 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prajapatiaryan113/LEETCODE-SOLUTiONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
